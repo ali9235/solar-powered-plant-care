@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="380" viewBox="0 0 960 380" role="img" aria-labelledby="title desc">
+<title id="title">VOLTRA Verdant illustrated architecture</title>
+<desc id="desc">Educational reference workflow, not proof of hardware operation.</desc>
+<rect width="960" height="380" rx="20" fill="#0b111b"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="36" y="42" fill="#86e7a2" font-size="18" letter-spacing="5">VOLTRA</text>
+<text x="36" y="95" fill="#ecf2f7" font-size="40" font-weight="700">Verdant</text>
+<text x="36" y="132" fill="#a2b2c5" font-size="21">Plant care, designed around absence.</text>
+<rect x="36" y="173" width="280" height="117" rx="12" fill="#121e2b" stroke="#86e7a2"/>
+<text x="54" y="200" fill="#86e7a2" font-size="16">01</text>
+<text x="54" y="231" fill="#ecf2f7" font-size="20" font-weight="600">Read the conditions</text>
+<text x="54" y="263" fill="#a2b2c5" font-size="13">Valid soil input + elapsed time</text>
+<path d="M322 230h12m-4-4 4 4-4 4" fill="none" stroke="#86e7a2" stroke-width="2"/>
+<rect x="340" y="173" width="280" height="117" rx="12" fill="#121e2b" stroke="#86e7a2"/>
+<text x="358" y="200" fill="#86e7a2" font-size="16">02</text>
+<text x="358" y="231" fill="#ecf2f7" font-size="20" font-weight="600">Gate the request</text>
+<text x="358" y="263" fill="#a2b2c5" font-size="13">Armed + dry + due, by default</text>
+<path d="M626 230h12m-4-4 4 4-4 4" fill="none" stroke="#86e7a2" stroke-width="2"/>
+<rect x="644" y="173" width="280" height="117" rx="12" fill="#121e2b" stroke="#86e7a2"/>
+<text x="662" y="200" fill="#86e7a2" font-size="16">03</text>
+<text x="662" y="231" fill="#ecf2f7" font-size="20" font-weight="600">Bound every cycle</text>
+<text x="662" y="263" fill="#a2b2c5" font-size="13">Wet cutoff, timeout and soak</text>
+<text x="36" y="335" fill="#a2b2c5" font-size="16">Illustrated reference workflow. Hardware commissioning and measurements remain pending.</text>
+</g></svg>
