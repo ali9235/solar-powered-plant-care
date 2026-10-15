@@ -1,8 +1,29 @@
-# Solar-Powered Plant Care
+<p align="center"><img src="media/voltra-logo.jpg" alt="VOLTRA — official project logo" width="720"></p>
+
+# VOLTRA Verdant
 
 ### Away from home. Still caring for what grows.
 
+![VOLTRA Verdant illustrated reference architecture](media/overview.svg)
+
+## See the idea in motion
+
+[![Animated plant-care reference workflow](media/walkthrough.gif)](media/walkthrough.mp4)
+
+[Watch or download the 12-second explainer](media/walkthrough.mp4). A silent, original illustration of the new reference logic—not footage of the device operating. Solar charging remains a separate hardware path, not a firmware feature. Hardware outputs are disabled by default.
+
+## The real prototype
+
+![Digitally widened presentation of the plant-care prototype](media/prototype-wide-preview.png)
+
+*Presentation image with AI-assisted background expansion; newly exposed edges and fine details are not hardware evidence. [View the original photograph](images/prototype.jpg) for the actual captured assembly.*
+
+<details>
+<summary>Original, unretouched hardware photograph</summary>
+
 ![Actual soil probe and controller assembly from the plant-care prototype](images/prototype.jpg)
+
+</details>
 
 Travel should not mean coming home to neglected plants. **Solar-Powered Plant Care** is a compact irrigation prototype designed to help care for plants while their owners are away, combining **soil-moisture-based watering, timed irrigation, and solar-supported charging**.
 
