@@ -1,0 +1,6 @@
+test_id,source_revision,condition,reference,observed,unit,acceptance_rule,status,evidence_file,notes
+V1,,,,,,Document measured calibration before enabling sensing,not_run,,
+V2,,,,,,Match the explicitly recorded mode and test timing,not_run,,
+V3,,,,,,No request during fault and deliberate reset then rearm,not_run,,
+V4,,,,,,Choose delivery tolerance before supervised measurement,not_run,,
+V5,,,,,,Assess against the identified compatible charger specification,not_run,,

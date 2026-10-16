@@ -1,6 +1,8 @@
 <h1 align="center">VOLTRA</h1>
 <h2 align="center">Verdant</h2>
 
+<p align="center"><a href="docs/ENGINEERING_GUIDE.md">Understand the build</a> · <a href="docs/DEMO_TEST_PLAN.md">Plan a real demo</a> · <a href="tests/hardware-observations.csv">Record observations</a></p>
+
 ### Away from home. Still caring for what grows.
 
 ![VOLTRA Verdant illustrated reference architecture](media/overview.svg)
@@ -77,5 +79,15 @@ The original sketch was not located. At the owner's request, a **new reference i
 Identify the panel, pump, controller, and supply ratings; document whether solar energy powers the load directly or charges storage. Supply the original sketch and actual wiring. Record the trigger condition and genuine water flow, along with the power source used during the test.
 
 No water-saving percentage, autonomous runtime, solar charging success, irrigation volume, or moisture accuracy is currently claimed. Reproducible build instructions depend on the missing electrical and control details.
+
+## Understand, demonstrate, verify
+
+[Engineering walkthrough](docs/ENGINEERING_GUIDE.md) · [Real demonstration & test plan](docs/DEMO_TEST_PLAN.md) · [Measurement template](tests/hardware-observations.csv)
+
+The walkthrough explains the actual reference source and visible hardware. It includes troubleshooting questions and software-only learning exercises. The test plan specifies what a genuine recording and measurement should show; all hardware-observation rows remain **not_run** until a real test is performed.
+
+[![Real prototype annotated with visible components and purpose notes](media/component-guide.png)](media/component-guide.png)
+
+[Open the full-size component guide](media/component-guide.png) · [Editable SVG](media/component-guide.svg). The original photograph is embedded unchanged. Unknown functions are marked; leader lines are **not a wiring schematic**.
 
 Project author: [ali9235](https://github.com/ali9235). New reference firmware; physical commissioning remains pending. No project-wide license selected.
